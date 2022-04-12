@@ -157,5 +157,21 @@
             "added_date":"06.04.2022"
          }
       ]
+   }, 
+   {
+	  "developer_name":"Андрей Щекатунов",
+	  "github_username":"AndNasPlay",
+	  "apps":[
+		 {
+			"id":"1609796077",
+			"name":"AnimatorNotepad",
+			"added_date":"24.02.2022"
+		 },
+		 {
+			"id":"1594080411",
+			"name":"FunnyTac",
+			"added_date":"07.11.2021"
+		 }
+	  ]
    }
 ]
